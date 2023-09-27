@@ -108,6 +108,7 @@
     },
     "include": [
         "test/**/*",
+        "cypress/e2e/**/*",
         "cucumber/steps/**/*"
     ]
 }
